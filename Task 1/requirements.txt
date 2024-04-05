@@ -1,0 +1,5 @@
+- User should be able to search contacts
+- User should be able to add new contacts
+- User should be able to update existing contacts
+- User should be able to delete old contacts
+- User should be able to merge duplicating contacts.
